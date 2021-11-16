@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <item android:id="@+id/nav_item_add_profile"
+            android:title="Add New Profile" />
+        <item android:id="@+id/nav_item_edit_profile"
+            android:title="Edit Current Profile" />
+        <item android:id="@+id/nav_item_switch_profile"
+            android:title="Switch Profile" />
+        <item android:id="@+id/nav_item_five_day"
+            android:title="5 Day Forecast" />
+    </group>
+</menu>
